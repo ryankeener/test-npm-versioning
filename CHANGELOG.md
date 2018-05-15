@@ -2,6 +2,8 @@
 
 ## [Unreleased][]
 
+- Some more stuff (with intermediate versions/tags)
+
 ## [2.0.5-0][] - 2018-05-15
 
 - Added some more text to the file
