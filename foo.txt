@@ -1,3 +1,4 @@
 Initial text
 Some more text
 Another change
+test merge
