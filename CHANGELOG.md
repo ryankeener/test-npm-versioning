@@ -2,6 +2,8 @@
 
 ## [Unreleased][]
 
+## [2.1.2][] - 2018-05-21
+
 - Another thing
 
 ## [2.1.0-0][] - 2018-05-15
@@ -21,7 +23,8 @@
 - Reticulated the splines
 
 
-[Unreleased]: https://github.com/ryankeener/test-npm-versioning/compare/v2.1.0-0...HEAD
+[Unreleased]: https://github.com/ryankeener/test-npm-versioning/compare/v2.1.2...HEAD
+[2.1.2]: https://github.com/ryankeener/test-npm-versioning/compare/v2.1.0-0...v2.1.2
 [2.1.0-0]: https://github.com/ryankeener/test-npm-versioning/compare/v2.0.5-0...v2.1.0-0
 [2.0.5-0]: https://github.com/ryankeener/test-npm-versioning/compare/v2.0.4-0...v2.0.5-0
 [2.0.4-0]: https://github.com/ryankeener/test-npm-versioning/tree/v2.0.4-0
