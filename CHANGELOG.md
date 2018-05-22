@@ -2,6 +2,8 @@
 
 ## [Unreleased][]
 
+- Another thing
+
 ## [2.1.0-0][] - 2018-05-15
 
 - Some more stuff (with intermediate versions/tags)
